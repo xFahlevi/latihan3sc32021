@@ -4,5 +4,6 @@ class Hello{
         System.out.println("xFahlevi: Aplikasi Java 2020");
 	System.out.println("blublu");
 	System.out.println("END");
+	System.out.println("User 2");
     }
 }
